@@ -1,0 +1,2 @@
+# lole
+Amharic voice assistant
